@@ -1,0 +1,6 @@
+{
+  "name": "Praktikum Dasar Pemrograman (Daspro) — ITLG",
+  "description": "Simulator Laboratorium Dasar Pemrograman (Daspro) interaktif untuk Information Technology Laboratory Group (ITLG) dengan editor kode C/C++ langsung dan visualisasi memori RAM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
